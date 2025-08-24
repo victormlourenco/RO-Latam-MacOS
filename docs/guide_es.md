@@ -68,7 +68,7 @@ brew install --cask --no-quarantine Sikarugir-App/sikarugir/sikarugir
 ## 10. Adición de Archivos de dgVoodoo2
 - Copia los siguientes archivos a `Contents/drive_c/Gravity/Ragnarok`:
   - `MS/x86/ddraw.dll`
-  - `MS/x86/d3Imm.dll`
+  - `MS/x86/d3dImm.dll`
   - `MS/x86/d3d9.dll`
   - `dgVoodoo.conf`
   - `dgVoodooCpl.exe`
