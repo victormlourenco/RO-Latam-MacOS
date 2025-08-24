@@ -91,8 +91,8 @@ brew install --cask --no-quarantine Sikarugir-App/sikarugir/sikarugir
 - Configura según las ilustraciones.
 - Haz clic en **Apply** y luego en **OK**.
 
-  <img src="img/2.png" width="600" />
-  <img src="img/3.png" width="600" />
+<img src="img/2.png" width="600" />
+<img src="img/3.png" width="600" />
 
 ---
 
@@ -101,8 +101,8 @@ brew install --cask --no-quarantine Sikarugir-App/sikarugir/sikarugir
 - En la pestaña **Aplicaciones**, selecciona **Windows 7**.
 - En la pestaña **Bibliotecas**, añade las DLLs de dgVoodoo2.
 
-  <img src="img/4.png" width="600" />
-  <img src="img/5.png" width="600" />
+<img src="img/4.png" width="600" />
+<img src="img/5.png" width="600" />
 
 ---
 
