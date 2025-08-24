@@ -2,6 +2,9 @@
 
 ## Downloads
 
+- [dgVoodoo2](https://github.com/victormlourenco/RO-Latam-MacOS/raw/refs/heads/main/downloads/dgVoodoo2_79_3.zip)
+- [steam.exe (stub)](https://github.com/victormlourenco/RO-Latam-MacOS/raw/refs/heads/main/downloads/steam.exe)
+
 ---
 
 ## 1. Instalação do Homebrew
@@ -72,6 +75,8 @@ brew install --cask --no-quarantine Sikarugir-App/sikarugir/sikarugir
 
 > **Info:** Versões mais novas do dgVoodoo2 (acima da **2.79.3**) não funcionam com o Wine.
 
+![screenshot](img/1.png)
+
 ---
 
 ## 11. Configuração do Sikarugir
@@ -86,6 +91,9 @@ brew install --cask --no-quarantine Sikarugir-App/sikarugir/sikarugir
 - Configure conforme as ilustrações.
 - Clique em **Apply** e depois em **OK**.
 
+  <img src="img/2.png" width="600" />
+  <img src="img/3.png" width="600" />
+
 ---
 
 ## 13. Configuração do Wine
@@ -93,9 +101,12 @@ brew install --cask --no-quarantine Sikarugir-App/sikarugir/sikarugir
 - Na aba **Aplicativos**, selecione **Windows 7**.
 - Na aba **Bibliotecas**, adicione as DLLs do dgVoodoo2.
 
+  <img src="img/4.png" width="600" />
+  <img src="img/5.png" width="600" />
+
 ---
 
 ## 14. Finalização
 - Vá em **Configuration > Browser**.
 - Selecione o `steam.exe`.
-- Clique em **Test Run** e abra o **Setup**, escolhendo o **DirectX7**.
+- Clique em **Test Run** e abra o **Setup** do jogo, escolhendo o **DirectX7**.
