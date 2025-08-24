@@ -109,8 +109,4 @@ brew install --cask --no-quarantine Sikarugir-App/sikarugir/sikarugir
 ## 14. Finalização
 - Vá em **Configuration > Browser**.
 - Selecione o `steam.exe`.
-<<<<<<< HEAD
-- Clique em **Test Run** e abra o **Setup**, escolhendo o **DirectX7**.
-=======
 - Clique em **Test Run** e abra o **Setup** do jogo, escolhendo o **DirectX7**.
->>>>>>> c49809b7a8202a692da235deb57b0d799bbe5ac3
