@@ -5,9 +5,9 @@ This repository provides step-by-step instructions for installing and running RO
 
 ## Installation Guides
 
-- 🇺🇸 [English](guide_en.md)
-- 🇪🇸 [Español](guide_es.md)
-- 🇧🇷 [Português](guide_pt-br.md)
+- 🇺🇸 [English](docs/guide_en.md)
+- 🇪🇸 [Español](docs/guide_es.md)
+- 🇧🇷 [Português](docs/guide_pt-br.md)
 
 ## Downloads
 
