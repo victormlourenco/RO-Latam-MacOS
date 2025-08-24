@@ -77,6 +77,8 @@ brew install --cask --no-quarantine Sikarugir-App/sikarugir/sikarugir
 
 > **Info:** dgVoodoo2 versions newer than **2.79.3** don’t work with Wine.
 
+![screenshot](img/1.png)
+
 ---
 
 ## 11. Sikarugir Configuration
